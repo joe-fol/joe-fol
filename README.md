@@ -1,12 +1,9 @@
-### Hi there 👋
+<h1 align="center">Welcome, my name is Joe Folkard</h1>
+<h3 align="center">I am a Web Developer from Bristol</h3>
 
-<!--
-**joe-fol/joe-fol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">🔭 I’m currently enrolled on the _nology bootcamp</p> 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+<p align="center">🌱 I’m currently learning HTML, scss, JavaScript</p>
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
