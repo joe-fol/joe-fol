@@ -2,7 +2,8 @@
 <h3 align="center">I am a Web Developer from Bristol</h3>
 
 <h4 align="center">My workstation</h4>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <p align="center">🔭 I’m currently enrolled on the _nology bootcamp.</p> 
 <p align="center">🌱 I’m currently learning HTML, scss, JavaScript.</p>
