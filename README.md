@@ -1,7 +1,6 @@
 <h1 align="center">Welcome, my name is Joe Folkard</h1>
 <h3 align="center">I am a Web Developer from Bristol</h3>
 
-<h4 align="center">My workstation</h4>
 
 
 <p align="center">🔭 I’m currently enrolled on the _nology bootcamp.</p> 
