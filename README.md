@@ -3,7 +3,7 @@
 
 
 
-<p align="center">🔭 I’m currently enrolled on the _nology bootcamp.</p> 
+<p align="center">🔭 I have not long finished the _nology bootcamp and actively looking for a new carrer in tect.</p> 
 <p align="center">🌱 I’m currently learning HTML, SCSS, JavaScript, React.</p>
 <p align="center">👯 I’m looking forward to start collaborating <br>on projects when my ability grows</p>
-<p align="center">📫 How to reach me: joefolkard@protonmail.com</p>
+
